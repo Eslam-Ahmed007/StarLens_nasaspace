@@ -1,0 +1,5 @@
+export * from "./Home"
+export * from "./About_us"
+export * from "./Educational"
+export * from "./Posts"
+export * from "./Support"

@@ -1,0 +1,200 @@
+.fedu
+{
+    background: linear-gradient(to bottom , rgba(108,143,163,1), rgba(245,244,241,1));
+    width: 100%;
+
+    
+}
+
+.space
+{
+    padding: 20px 0;
+}
+
+.backedu-img
+{
+    position: absolute;
+    width: 100%;
+}
+.edu-title h1
+{
+    text-align: center;
+    padding: 50px 0 ; 
+    color: rgba(10, 35, 67, 1);
+    font-size: 68px;
+    font-weight: 700;
+    text-shadow:0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    
+    /* animation-name: fade;
+    animation-duration: 3s; */
+
+
+}
+
+
+.Scientific-book
+{
+    background-color: transparent;
+   
+
+}
+
+.educard{
+    background-color: rgba(255, 255, 255, 1);
+    height: 440px;
+    border-radius: 20px;
+
+
+
+}
+
+.educard  img 
+{
+    margin-top: 12px;
+    height: 340px;
+    width: 92%;
+    border-radius: 8px;
+}
+.educard p 
+{
+    margin: 5px 0;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.educard h3 
+{
+    font-weight: 600;
+    font-size: 18px;
+
+} 
+
+.cosmology
+{
+    display: flex;
+    justify-content: space-evenly;
+    height: 700px;
+    position: relative;
+    
+   
+   
+}
+
+.cosmoimgtitle
+{
+    position: absolute;
+    left: 6%;
+    margin-top: 20px;
+    
+}
+
+.cosmocard
+{
+    background-color: rgba(255, 255, 255, 1);
+    max-height: 560px;
+    border-radius: 20px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba( 0 , 0, 0, 0.3);
+    padding: 20px 10px;
+    
+  
+
+
+}
+
+.cosmocard img
+{
+    width: 90%;
+    height: 86%;
+}
+
+.cosmocard p
+{
+    padding: 3px;
+    font-size: 18px;
+}
+.cosmocard h3 
+{
+    font-size: 14px;
+}
+
+
+
+
+.secoundedu{
+
+    background-color: rgb(135, 181, 208) ;
+    
+}
+
+
+
+
+.kidtitle img
+{
+    width: 60px;
+    
+
+}
+
+
+.edukids
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 0 240px;
+    
+}
+
+.kidscard
+{
+    margin: 30px 20px ;
+    
+
+}
+
+.mysterioustitle h1
+{
+    color: white;
+    
+}
+
+
+.mysteriosedu
+{
+    background-image: url("src/assets/image 51.png");
+    background-size: cover;
+    color: white;
+    height: 125vh;
+    padding: 50px;
+}
+
+.mystermargin
+{
+    height: 40%;
+    margin: 10px 0 ;
+    /* background-color: aqua; */
+}
+.mysteriosedu
+{
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.mysteriosedu button  
+{   
+    margin: 40px 0;
+    background-color: rgba(108, 143, 163, 0.5);
+    border-radius: 10px;
+    width: 280px;
+    height: 80px;
+    font-size: 32px;
+    font-weight: 500;
+    color: white;
+    border:none;
+
+}
+

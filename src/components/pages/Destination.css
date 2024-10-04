@@ -1,0 +1,121 @@
+.destlanding
+{
+    height: 100vh;
+    background-image: url("src/assets/image 50.png");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    
+
+    
+}
+.spacedestination
+{
+    height: 10%;
+}
+.desttitle
+{ 
+      /* position:absolute; */
+    text-align: center;
+    /* margin: 30px; */
+    color: white;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.destlanding button
+{
+    margin: 40px auto ;
+    background-color: rgba(108, 143, 163, 0.5);
+    border-radius: 10px;
+    width: 280px;
+    height: 80px;
+    font-size: 32px;
+    font-weight: 500;
+    color: white;
+    border:none;
+    position: absolute; 
+    left: 50%;
+    top: 86%;
+    transform: translate(-50% , -50%);
+
+
+}
+
+.destinfo
+{
+    /* height: 100vh; */
+    background: linear-gradient(to bottom, rgba(245, 244, 241, 1), rgba(108, 143, 163, 1) );
+    padding-top: 80px ;
+}
+
+.f-sec-dest
+{
+    position: relative;
+    
+    background-color: rgb(245, 244, 241, 0.4);
+    width: 80%;
+    height: 300px;
+    margin:50px  auto;
+    border-radius: 20px;
+    font-size: 22px;
+
+    
+}
+
+.f-sec-dest p
+{
+    font-size: 26px;
+    padding: 2px 30px;
+    padding-top: 30px;
+    font-weight: 500;
+}
+
+.f-sec-dest img
+{
+    position: absolute;
+    top: -40px;
+    left: -30px;
+    width: 60px;
+}
+
+.n2nd-sec-dest
+{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(245, 244, 241, 0.4);
+    border-radius: 20px;
+    padding: 50px;
+
+}
+
+.n2nd-sec-dest p 
+{
+    font-size: 26px;
+    margin: 40px 20px;
+   
+}
+
+.n2nd-sec-dest h2 
+{
+
+    text-align: center;
+    font-size: 26px;
+
+}
+.n2nd-sec-dest a
+{
+    color:  rgba(237, 47, 47, 1);
+}
+
+
+
+.ayyklam
+{
+    height: 50px;
+    width: 80%;
+    /* background-color: aqua; */
+    margin: auto;
+}
+

@@ -1,0 +1,60 @@
+.fotter
+{
+    width: 100%;
+    background-color:  rgba(10, 35, 67, 1);
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 200px;
+    border-radius: 10px 10px 0  0;
+    bottom: 0;
+    
+}
+
+.fotter .left , .right
+{
+    font-size: 14px;
+
+}
+
+.fotter .left img
+{
+    width: 140px;
+    padding-bottom: 50px;
+    padding-top: 5px;
+}
+
+.fotter .right ul 
+{
+   list-style: none;
+   padding-bottom: 50px;
+
+}
+.fotter .right ul li
+{
+     margin-top: 12px;
+}
+
+.fotter .right p 
+{
+    font-size: 12px;
+}
+
+@media (max-width :760px)
+{
+
+    .fotter .left , .right
+    {
+        font-size: 8px;
+    }
+    .fotter .left img
+    {
+        width: 80px;
+    }
+    .fotter .right p 
+    {
+        font-size: 6px;
+    }
+
+}

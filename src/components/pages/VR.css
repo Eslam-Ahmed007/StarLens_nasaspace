@@ -1,0 +1,39 @@
+
+.d3container
+{
+    background-color: black;
+    /* height: 200vh ; */
+    /* width: 100%; */
+    
+}
+
+.moon-sec
+{
+    height: 100vh;
+}
+
+.setoff-title
+{   
+    margin: auto;
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+}
+
+
+
+.moonsky video
+{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    
+}
+
+
+.moonspace
+{
+    height: 100px;
+    background-color: black;
+
+}

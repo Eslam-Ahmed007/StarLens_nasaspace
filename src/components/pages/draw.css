@@ -1,0 +1,28 @@
+
+body {
+    user-select: none;
+   
+  }
+  
+  svg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    /* background-color: #ff0000; */
+    background-image: url("src/assets/starmap_2020_4k_gal_print.jpg");
+    background-position: center;
+    background-size: cover;
+    touch-action: none;
+
+  }
+
+.drawcon
+{
+ height: 100vh;
+ /* background-color: aqua;    */
+}
+
+
+  

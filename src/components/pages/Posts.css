@@ -1,0 +1,112 @@
+.postlanding
+{
+    height: 100vh;
+    background-image: url("src/assets/image 16.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.postlanding  h1
+{
+    color: white;
+    font-size: 58px;
+    padding: 50px 0 ;
+}
+
+.postlanding button
+{
+    width: 280px;
+    height: 75px;
+    background-color:  rgb(93, 137, 163);
+    color: white;
+    font-size: 35px;
+    border-radius: 1.5rem;
+    margin:1rem auto;
+    border: 0;
+
+}
+
+
+.post-sec
+{
+    height: 250vh;
+    background: linear-gradient(180deg, #F5F4F1 0%, #6C8FA3 100%);
+    padding: 60px;
+
+}
+
+.post-item
+{
+    width: 70%;
+    margin: auto;
+    position: relative;
+    margin: 50px auto;
+
+
+}
+
+
+
+.post-nav
+{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.post-img .postimg
+{
+    width: 1000px;
+}
+
+.lpost-nav img{
+
+    width: 80px;
+    
+
+}
+
+.lpost-nav
+{
+    display: flex;
+}
+
+.post-nav .post-usern
+{
+    font-size: 25px;
+    line-height: 80px;
+    font-weight: 600;
+    padding: 0 5px ;
+}
+.post-nav .post-usere
+{
+    font-size: 14px;
+    line-height: 80px;
+    color: rgba(136, 136, 136, 1);
+}
+
+.rpost-nav img
+{
+    width: 12px;
+}
+
+.post-item  p 
+{
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    font-size: 26px;
+    margin: 20px 0 ;
+    
+}
+
+.postdraw
+{
+    position: absolute;
+    top: 36%;
+    right: 30%;
+    width: 200px;
+}
