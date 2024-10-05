@@ -1,6 +1,7 @@
 # 🌟 StarLens
 https://github.com/user-attachments/assets/f881af46-e084-468a-9dbe-5e2c0110d3f1
 
+ ### 🌌 Context
 *StarLens* is an immersive web experience that helps users explore exoplanets through an interactive card game and a unique VR journey. Users can visualize planets in 3D, navigate sky charts, and embark on adventures by connecting stars in planetary skies. The platform also includes an educational section with learning resources and book recommendations.
 
 
