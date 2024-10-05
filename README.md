@@ -21,3 +21,8 @@ StarLens is an immersive website that lets users explore a 3D point cloud map of
 
 ### 🛠 Backend Stack:
 - *Node.js*
+
+### 🚧 Future Improvements:
+- Expanding the VR experience to include more planets.
+- Enhancing the education section with quizzes and interactive learning paths.
+- Adding multiplayer features for the card game.
