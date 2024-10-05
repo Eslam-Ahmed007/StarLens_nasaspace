@@ -15,7 +15,8 @@
 
 .mainboxhome
 {   
-    background-image: url("src/assets/Galaxynightlandscape.png") ; 
+    /* background-image: url("src/assets/Galaxynightlandscape.png") ;  */
+    background-image: url("src/assets/Galaxynightlandscape.png");
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;

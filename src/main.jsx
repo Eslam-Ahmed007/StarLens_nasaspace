@@ -6,7 +6,8 @@ import { BrowserRouter } from 'react-router-dom'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/StarLens_nasaspace/" >
+    {/* <BrowserRouter basename="/StarLens_nasaspace/" > */}
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </StrictMode>,
