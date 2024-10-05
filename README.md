@@ -10,3 +10,14 @@ StarLens is an immersive website that lets users explore a 3D point cloud map of
 - 🌌 *SkyCharts*: Visualize and connect stars in real-time.
 - 🎓 *Educational Section*: Learn more about space and access curated book recommendations.
 
+
+### 🖥 Frontend Stack:
+- *React.js + Vite*
+- *Three.js*
+- *TypeScript*
+- *JavaScript*
+- *HTML*
+- *CSS / SCSS*
+
+### 🛠 Backend Stack:
+- *Node.js*
