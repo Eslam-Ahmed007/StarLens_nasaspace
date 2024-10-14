@@ -25,5 +25,8 @@ https://github.com/user-attachments/assets/f881af46-e084-468a-9dbe-5e2c0110d3f1
 
 ### 🚧 Future Improvements:
 - Expanding the VR experience to include more planets.
-- Enhancing the education section with quizzes and interactive learning paths.
+- Enhancing the education section interactive learning paths.
 - Adding multiplayer features for the card game.
+
+- ### Try it yourself (Deployment)
+- https://heroic-mochi-2628c7.netlify.app/
